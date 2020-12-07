@@ -8,7 +8,7 @@ This is a remake of Flappy Bird called “FLAPPY BIRB” which is a course proje
   
   
 Team: 
-  Phuc, Tran Hoang
-  Linh, Vo Thuy
-  Minh, Truong Ngoc Quang
-  Long, Tran Ngoc Hien
+  - Phuc, Tran Hoang
+  - Linh, Vo Thuy
+  - Minh, Truong Ngoc Quang
+  - Long, Tran Ngoc Hien
