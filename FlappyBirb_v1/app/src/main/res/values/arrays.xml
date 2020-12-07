@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="background">
+        <item>@drawable/background_day</item>
+        <item>@drawable/background_night</item>
+    </array>
+
+    <array name="bird_color">
+        <item>@drawable/yellowbird_midflap</item>
+        <item>@drawable/redbird_midflap</item>
+        <item>@drawable/bluebird_midflap</item>
+    </array>
+
+    <array name="tube_color">
+        <item>@drawable/pipe_green_up</item>
+        <item>@drawable/pipe_red_up</item>
+    </array>
+</resources>

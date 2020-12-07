@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Flappy Birb</string>
+    <string name="lost_game">You Lost</string>
+    <string name="play">Play</string>
+    <string name="background_day">Day</string>
+    <string name="background_night">Night</string>
+    <string name="play_button">play_button</string>
+    <string name="change_background_button">setTime</string>
+    <string name="change_tube">setTube</string>
+    <string name="blank"> </string>
+    <string name="message">message</string>
+    <string name="resource_error">Something is up with the resource class</string>
+</resources>
