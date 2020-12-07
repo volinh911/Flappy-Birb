@@ -7,3 +7,8 @@ This is a remake of Flappy Bird called “FLAPPY BIRB” which is a course proje
   +	The difficulty of the game is significantly increased since the tubes now moves persistently from left to right, which is different from the original. This gameplay brings a new feeling to the player by making the player feel the birds are slowing down against the tubes.
   
   
+Team: 
+  Phuc, Tran Hoang
+  Linh, Vo Thuy
+  Minh, Truong Ngoc Quang
+  Long, Tran Ngoc Hien
